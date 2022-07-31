@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Huawei R&D Center<br>🤝 I’m looking for help with Spring Boot & node.JS <br>🌱 I’m currently learning Back-end Development<br>💬 Ask me about anything interesting :)
+🤝 I’m looking for help with Spring Boot & node.JS <br>🌱 I’m currently learning Back-end Development<br>💬 Ask me about anything interesting :)
 
 
 ## 🌐 Socials:
