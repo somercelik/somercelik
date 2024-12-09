@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌟 I’m a back-end developer focusing on building efficient and scalable applications with Express.js and NestJS.
-🌱 Currently, I’m sharpening my skills in back-end development while exploring new technologies, CI/CD pipelines.
+🌟 I’m a back-end developer focusing on building efficient and scalable applications with Express.js and NestJS.<br>
+🌱 Currently, I’m sharpening my skills in back-end development while exploring new technologies, CI/CD pipelines.<br>
 💬 Feel free to ask me about coding, development workflows, or anything else interesting!
 
 
