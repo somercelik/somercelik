@@ -1,0 +1,150 @@
+{
+  "selectedTemplate": 1,
+  "headings": {},
+  "basics": {
+    "name": "Soner Çelik",
+    "label": "Software Engineer",
+    "email": "somercelik@yahoo.com",
+    "phone": "+90 (530) 492 01 39",
+    "summary": "Experienced Full Stack Developer with a focus on modern web technologies and enterprise solutions. Skilled in every part of Oracle Cloud Infrastructure, AWS, React.js, and Low Code platforms, I specialize in building scalable, integrated web applications.",
+    "location": {
+      "city": "Istanbul",
+      "countryCode": "TR",
+      "address": "Istanbul,TR"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "somercelik",
+        "url": "https://www.linkedin.com/in/somercelik"
+      },
+      {
+        "network": "Github",
+        "username": "somercelik",
+        "url": "https://github.com/somercelik"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Suleyman Demirel University",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2015-09",
+      "endDate": "2020-07",
+      "gpa": "",
+      "courses": ["Data Structures", "Optimization Algorithms", "Computer Architecture"],
+      "location": "Isparta, TR"
+    }
+  ],
+  "work": [
+    {
+      "name": "Experteam",
+      "position": "Senior Technical Consultant",
+      "startDate": "2025-05",
+      "endDate": "",
+      "location": "Istanbul, TR",
+      "url": "https://www.experteam.com.tr/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Providing technical consultancy and end-to-end solution design for enterprise clients, leading integration and web application development projects on Oracle Cloud Infrastructure.",
+        "Designing and implementing complex integration flows using Oracle Integration Cloud (OIC), connecting ERP modules with third-party systems via REST and SOAP web services.",
+        "Developing dynamic web applications leveraging Oracle Visual Builder (VBCS) to support business process automation.",
+        "Tech stack: OIC, VBCS, Oracle Database, PL/SQL, OCI, REST, SOAP, JavaScript"
+      ],
+      "company": "Experteam"
+    },
+    {
+      "name": "NTT DATA Business Solutions",
+      "position": "Senior Software Engineer",
+      "startDate": "2024-01",
+      "endDate": "2025-05",
+      "location": "Istanbul, TR",
+      "url": "https://nttdata-solutions.com/tr/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Designing and implementing advanced data integration solutions, developing API servers, and creating dynamic web applications using containerized environments to streamline business processes and enhance scalability.",
+        "Tech Stack: JavaScript, ReactJS, nodeJS, SAP Cloud Inf, HANA, SQL"
+      ],
+      "company": "NTT DATA Business Solutions"
+    },
+    {
+      "name": "Apps Akademi",
+      "position": "Software Engineer",
+      "startDate": "2022-08",
+      "endDate": "2023-12",
+      "location": "Istanbul, TR",
+      "url": "https://appsakademi.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Delivering integrations and applications through Oracle Cloud Infrastructure, using frameworks powered by Oracle Database.",
+        "e-Invoice: Fetching incoming invoices from government or integrator portal through web services and loading them into appropriate ERP module (FIN/SCM)",
+        "e-Despatch: All the technical design, documentation and development.",
+        "Tech stack: Oracle Database, PL/SQL, VBCS, OIC, APEX, Oracle JET, Javascript, Oracle ADF, Java, OCI Functions, OCI Object Storage, REST, SOAP"
+      ],
+      "company": "Apps Akademi"
+    },
+    {
+      "name": "Huawei",
+      "position": "Software Engineer",
+      "startDate": "2022-02",
+      "endDate": "2022-07",
+      "location": "Istanbul, TR",
+      "url": "https://www.huawei.com/tr/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Worked in an IntelliJ Platform Plugin project which enables developers to work in the HarmonyOS ecosystem. ",
+        "Tech stack: Java, Swing, CI/CD, Jenkins, Gradle, HTML, CSS, Javascript"
+      ],
+      "company": "Huawei"
+    },
+    {
+      "name": "Apps Akademi",
+      "position": "Full Stack Developer",
+      "startDate": "2020-10",
+      "endDate": "2022-02",
+      "location": "Istanbul, TR",
+      "url": "https://appsakademi.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Financial Management System (VBCS)",
+        "ERP-Retail Software (Micros, Robotpos) Integration into Financial Cloud and Supply Chain Cloud (VBCS, OIC)",
+        "Daily Rates Integration from Central Bank of Turkey (OIC)"
+      ],
+      "company": "Apps Akademi"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": ["Oracle", "SAP HANA", "SQL", "PL/SQL"]
+    },
+    {
+      "name": "Front-End Development",
+      "level": "Expert",
+      "keywords": ["Javascript", "Typescript", "React.js", "HTML", "CSS"]
+    },
+    {
+      "name": "Back-End Development",
+      "level": "Expert",
+      "keywords": ["nodeJS", "ETL", "Integration", "Java"]
+    },
+    {
+      "name": "Cloud Development",
+      "level": "Expert",
+      "keywords": ["Oracle", "AWS", "Lambda-OCI Functions", "Oracle Integration", "Oracle Visual Builder"]
+    },
+    {
+      "name": "Miscelanneous",
+      "level": "Expert",
+      "keywords": ["Git", "Hibernate", "Prisma", "OData", "Containers", "CI/CD"]
+    }
+  ],
+  "sections": ["templates", "profile", "work", "skills", "education", "projects", "awards"]
+}
